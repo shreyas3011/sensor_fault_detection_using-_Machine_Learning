@@ -1,2 +1,2 @@
-TRAINING_BUCKET_NAME="S"
-PREDICTION_BUCKET_NAME="S"
+TRAINING_BUCKET_NAME="Shreyas-sensor-bucket"
+PREDICTION_BUCKET_NAME="Shreyas-sensor-datasource"

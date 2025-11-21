@@ -1,12 +1,18 @@
-pymongo==4.2.0
--e .
-pandas
-numpy
-python-dotenv
-scikit-learn
-certifi
-PyYAML
 dill
-scipy
-imblearn==0.0
-xgboost==1.6.2
+dnspython
+evidently
+fastapi
+httptools
+imblearn
+mypy-boto3-s3
+pip-chill
+pymongo
+python-dotenv
+types-s3transfer
+uvicorn
+watchfiles
+websockets
+wincertstore
+xgboost
+neuro-mf
+-e .
